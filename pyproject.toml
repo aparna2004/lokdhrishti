@@ -1,0 +1,14 @@
+[project]
+name = "lokdhrishti"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "numpy>=1.26.4",
+    "openpyxl>=3.1.5",
+    "pandas>=2.2.2",
+    "plotly>=5.22.0",
+    "scikit-learn>=1.5.0",
+    "streamlit>=1.36.0",
+]
